@@ -1,0 +1,8 @@
+# A sample Gemfile
+source "http://rubygems.org"
+
+gem "mongo"
+gem "sinatra"
+gem "json"
+gem "bson_ext"
+gem "uuidtools"
